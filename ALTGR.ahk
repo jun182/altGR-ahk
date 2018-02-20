@@ -23,6 +23,7 @@
 	{
 		WinActivate
 		WinMaximize
+		;wowowowowowoowo
 	}
 	
 	else 													;or if the window doesn't exist at all it will default to running the executable
